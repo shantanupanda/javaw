@@ -1,0 +1,8 @@
+name             'javaw'
+maintainer       'Shantanu Panda'
+maintainer_email ''
+license          'All rights reserved'
+description      'Installs/Configures java'
+long_description 'Wrapper cookbook for java'
+version          '0.1.0'
+depends		 'java'
